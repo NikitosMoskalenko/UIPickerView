@@ -9,21 +9,25 @@
 /* Begin PBXBuildFile section */
 		1C77D06D23E1B34100713F4A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C77D06C23E1B34100713F4A /* AppDelegate.swift */; };
 		1C77D06F23E1B34100713F4A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C77D06E23E1B34100713F4A /* SceneDelegate.swift */; };
-		1C77D07123E1B34100713F4A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C77D07023E1B34100713F4A /* ViewController.swift */; };
+		1C77D07123E1B34100713F4A /* FirstHWTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C77D07023E1B34100713F4A /* FirstHWTask.swift */; };
 		1C77D07423E1B34100713F4A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C77D07223E1B34100713F4A /* Main.storyboard */; };
 		1C77D07623E1B34200713F4A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C77D07523E1B34200713F4A /* Assets.xcassets */; };
 		1C77D07923E1B34200713F4A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C77D07723E1B34200713F4A /* LaunchScreen.storyboard */; };
+		1C77D08123E22F3A00713F4A /* SecondHWTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C77D08023E22F3A00713F4A /* SecondHWTask.swift */; };
+		1C77D08323E2D52700713F4A /* ThirdHWTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C77D08223E2D52700713F4A /* ThirdHWTask.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		1C77D06923E1B34100713F4A /* HWUIPickerView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HWUIPickerView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C77D06C23E1B34100713F4A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1C77D06E23E1B34100713F4A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		1C77D07023E1B34100713F4A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		1C77D07023E1B34100713F4A /* FirstHWTask.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstHWTask.swift; sourceTree = "<group>"; };
 		1C77D07323E1B34100713F4A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1C77D07523E1B34200713F4A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1C77D07823E1B34200713F4A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1C77D07A23E1B34200713F4A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1C77D08023E22F3A00713F4A /* SecondHWTask.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondHWTask.swift; sourceTree = "<group>"; };
+		1C77D08223E2D52700713F4A /* ThirdHWTask.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdHWTask.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +62,9 @@
 			children = (
 				1C77D06C23E1B34100713F4A /* AppDelegate.swift */,
 				1C77D06E23E1B34100713F4A /* SceneDelegate.swift */,
-				1C77D07023E1B34100713F4A /* ViewController.swift */,
+				1C77D07023E1B34100713F4A /* FirstHWTask.swift */,
+				1C77D08023E22F3A00713F4A /* SecondHWTask.swift */,
+				1C77D08223E2D52700713F4A /* ThirdHWTask.swift */,
 				1C77D07223E1B34100713F4A /* Main.storyboard */,
 				1C77D07523E1B34200713F4A /* Assets.xcassets */,
 				1C77D07723E1B34200713F4A /* LaunchScreen.storyboard */,
@@ -138,7 +144,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1C77D07123E1B34100713F4A /* ViewController.swift in Sources */,
+				1C77D08323E2D52700713F4A /* ThirdHWTask.swift in Sources */,
+				1C77D07123E1B34100713F4A /* FirstHWTask.swift in Sources */,
+				1C77D08123E22F3A00713F4A /* SecondHWTask.swift in Sources */,
 				1C77D06D23E1B34100713F4A /* AppDelegate.swift in Sources */,
 				1C77D06F23E1B34100713F4A /* SceneDelegate.swift in Sources */,
 			);
